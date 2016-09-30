@@ -12,9 +12,9 @@ If there are issues with the app.. or you just want something changed, please fi
 
 ## Whose Fault is This?
 
-The "breakfast club" is initiated and run by Justin Vreeland.\\ 
-This app is a first django app of Heather Ellsworth.\\
-The other awesome members incluce but are not limited to:\\ 
+The "breakfast club" is initiated and run by Justin Vreeland.  
+This app is a first django app of Heather Ellsworth.  
+The other awesome members incluce but are not limited to:  
 * Rocky Craig
 * David Ellsworth
 * Jim Whitten
