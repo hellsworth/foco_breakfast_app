@@ -4,7 +4,7 @@ There are many breakfast places around Fort Collins, CO - some great and some aw
 
 ## OMG It's Magic!!
 
-No it's not. Don't be fooled by the django back-end that Heather slapped together :)
+No it's not. Don't be fooled by the django back-end. It has a simple look to it but it gets the job done and was quite the learning experience of Heather.
 
 ## Getting Shit Changed
 
