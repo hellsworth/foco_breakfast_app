@@ -4,7 +4,7 @@ There are many breakfast places around Fort Collins, CO - some great and some aw
 
 ## OMG It's Magic!!
 
-No it's not. Don't be fooled by the django back-end that Heather slapped together. :hampster:
+No it's not. Don't be fooled by the django back-end that Heather slapped together :)
 
 ## Getting Shit Changed
 
